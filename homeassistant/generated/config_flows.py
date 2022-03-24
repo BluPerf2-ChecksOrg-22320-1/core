@@ -202,7 +202,6 @@ FLOWS = {
         "metoffice",
         "mikrotik",
         "mill",
-        "min_max",
         "minecraft_server",
         "mjpeg",
         "mobile_app",
@@ -401,6 +400,7 @@ FLOWS = {
         "zwave_me"
     ],
     "helper": [
-        "derivative"
+        "derivative",
+        "min_max"
     ]
 }
