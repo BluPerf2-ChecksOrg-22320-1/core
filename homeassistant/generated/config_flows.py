@@ -362,7 +362,6 @@ FLOWS = {
         "upnp",
         "uptime",
         "uptimerobot",
-        "utility_meter",
         "vallox",
         "velbus",
         "venstar",
@@ -401,6 +400,7 @@ FLOWS = {
         "zwave_me"
     ],
     "helper": [
-        "derivative"
+        "derivative",
+        "utility_meter"
     ]
 }
